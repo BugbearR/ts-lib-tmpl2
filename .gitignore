@@ -1,0 +1,15 @@
+# External resources
+node_modules/
+
+# Output
+dist/
+
+# Local
+.vscode
+
+# Temporary
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
